@@ -1,4 +1,4 @@
 # odin-recipes
 
--  List of ingredients for bolognese sauce
+-  Website about italian cuisine
 -  Demonstrate competence in using tags, elements and attributes
